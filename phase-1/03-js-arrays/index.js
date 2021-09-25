@@ -71,6 +71,8 @@ console.log("------------------------");
 
     // 1️⃣ Create a function that accepts an array of numbers and returns the first element
 
+
+    
         // Example: getFirstElement([10, 9, 8]) => 10
         // Example: getFirstElement([1, 2, 3]) => 1
         // Example: getFirstElement([-10, 0, 10]) => -10

@@ -85,8 +85,11 @@ console.log("------------------------");
         // Example: computeVolume({ length: 3, width: 5, height: 7 }) => 105
 
         // ❗ volume => length * width * height
+let dimensions = { length: 2, width: 2, height: 2 };
+          function computeVolume(dimensions) {         
+Object.values(dimensions) 
 
-            
+             }
 
 
         

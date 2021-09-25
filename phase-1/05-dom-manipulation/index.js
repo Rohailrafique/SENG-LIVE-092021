@@ -103,8 +103,10 @@ console.log("------------------------");
 
 	// 	✨ BONUS: Try to reduce redudancy (DRY Principle) in your code through the use of JS functions and variables.
 
-
-
+	function renderPokemon(pokemon) {
+		
+		// --------- Break Out 1 --------- //
+		
 
 
 	// ✅ Check Answer: 
